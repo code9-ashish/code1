@@ -2,3 +2,4 @@
 #this is my first code on github
 status
 git status
+i am ashish and i making this changes from github
