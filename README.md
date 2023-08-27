@@ -8,3 +8,4 @@ now this is my second code
 now i am changing code from github
 hello, now i am making changes from develop branch
 now this is my command
+i can use linux command in this terminal
